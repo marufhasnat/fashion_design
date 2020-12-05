@@ -1,0 +1,35 @@
+/*footer css change*/
+
+.footer-col{
+    background-color: #e9e2d8;
+}
+
+.footer-col ul li a{
+    color: #000 !important;
+}
+
+.footer-col h6{
+    color: #000 !important;
+}
+
+.copyright_text_content p{
+    color: #000 !important;
+}
+
+.comp-link{
+    color: #000;
+}
+
+footer .bottom_nav_section ul li a:hover{
+    color: #fa6878 !important;
+}
+
+footer .bottom_nav_section ul.social_links li a:hover{
+    background-color: #fa6878 !important;
+}
+
+/*Index page customization*/
+
+.short.hide{
+	display: none;
+}
